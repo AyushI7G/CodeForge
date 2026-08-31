@@ -82,12 +82,6 @@ CodeForge/
 └── vite.config.ts
 ```
 
-## License
-
-Built as a software engineering project to explore CI/CD, distributed systems, and backend infrastructure.
-
----
-
 ## Author
 
 **Ayushi Gupta** 
